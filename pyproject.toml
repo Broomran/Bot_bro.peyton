@@ -1,0 +1,12 @@
+[project]
+name = "Bot_bro.peyton"
+version = "1.0.0"
+dependencies = [
+    "websockets",
+    "requests", 
+    "google-generativeai"
+]
+
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
