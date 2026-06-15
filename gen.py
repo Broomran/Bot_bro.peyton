@@ -43,8 +43,8 @@ HANDLER_ROOM_MESSAGE = "room_message"
 EVENT_TYPE_SUCCESS = "success"
 
 BOT_ID = "bot"
-BOT_PWD = "12345B0T"
-GROUP_TO_INIT_JOIN = "english"
+BOT_PWD = "wldss123wldss1992"
+GROUP_TO_INIT_JOIN = "ورق🤍🩷الورد"
 GEMINI_API_KEY = "AIzaSyDskdaBm_GngJdJHLONHdhSDK7j2GvvPh4"
 IMGBB_API_KEY = "1bc2faeed622d261210c9540beaa2d95"
 
